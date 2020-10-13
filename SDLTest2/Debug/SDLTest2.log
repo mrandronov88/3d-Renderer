@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CApp.cpp
+  CApp_OnCleanup.cpp
+  CApp_OnEvent.cpp
+  CApp_OnInit.cpp
+  CApp_OnLoop.cpp
+  CApp_OnRender.cpp
+  SDLTest.cpp
+  Generating Code...
+  SDLTest2.vcxproj -> C:\Users\agnalin\source\repos\SDLTest2\Debug\SDLTest2.exe

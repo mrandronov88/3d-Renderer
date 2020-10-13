@@ -1,0 +1,4 @@
+﻿  CApp_OnInit.cpp
+c:\users\agnalin\source\repos\sdltest2\sdltest2\shader.h(104): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+c:\users\agnalin\source\repos\sdltest2\sdltest2\shader.h(129): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  SDLTest2.vcxproj -> C:\Users\agnalin\source\repos\SDLTest2\x64\Debug\SDLTest2.exe
